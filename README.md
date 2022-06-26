@@ -1,5 +1,5 @@
 # To Do List v1
-Welcome to my web app. That's my second work. Project was written by using only native JavaScript.
+Welcome to my web app. Project was written by using only native JavaScript.
 
 ## Installation
 Firstly make sure that you have latest version of browser installed.
